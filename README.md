@@ -1,4 +1,4 @@
-# Holli
+# 🏖️ Holli
 Holli is your personal AI travel planner, leveraging OpenAI's powerful language model to craft detailed itineraries for your trips.
 
 ## Technologies Used
