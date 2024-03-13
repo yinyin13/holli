@@ -37,7 +37,7 @@ Travelers often have trouble planning their travel itinerary due to too much inf
     streamlit run app.py
     ```
 
-To access the web app directly online, go to [Holli](https://yinyin13-resume-helper.azurewebsites.net/).
+To access the web app directly online, go to [Holli](https://yinyin13-holli.azurewebsites.net/).
 
 ## Reflections
 ### Lessons Learned
